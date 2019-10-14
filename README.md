@@ -1,6 +1,6 @@
 # Description
 
-Final project for algorithm trading bot using reinforcement learning. 
+Final project for algorithmic trading bot using reinforcement learning. 
 
 # Demo of trading performance
 
