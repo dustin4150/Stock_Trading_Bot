@@ -11,5 +11,3 @@ Final project for algorithmic trading bot using reinforcement learning.
 
 + enable multi-asset strategy
 + optimize the reward (utility) function
-+ hook up with exchange API
-
